@@ -1,26 +1,24 @@
 h1 
-	{
-			background: #99CCFF;
-			border: 2px solid #000066;
-			color: #000066;
-			font-family: 'Playfair Display', serif;
-			font-size: 15px;
-			text-align: center;
-			padding: 1;
-			
-		}
+{
+	background: #99CCFF;
+	border: 2px solid #000066;
+	color: #000066;
+	font-family: 'Playfair Display', serif;
+	font-size: 15px;
+	text-align: center;
+	padding: 1;
+}
 
 body
-        {
-            border: 2px ridge #000066;
-			margin: 0 2 0 2;
-			width: 130px;
-            background: #00FFFF;
-         }
+{
+        border: 2px ridge #000066;
+	margin: 0 2 0 2;
+	width: 130px;
+        background: #00FFFF;
+}
 #gadgetContent
-        {
-			font-size: 15px;
-			text-align: left;
-            overflow: visible;
-				
-        }
+{
+	font-size: 15px;
+	text-align: left;
+        overflow: visible;
+}
